@@ -1,0 +1,2 @@
+loadkeys la-latin1
+
