@@ -7,7 +7,7 @@ but now it will be divided into 3 files to facilitate installation.
 
 
 I'll see how to get rid of a specific partition table as quickly as possible, but for now this is 
-the way you should partition the disk with fdisk:
+the way you should partition the disk with cfdisk:
 
 /////////////////////////////////////////
 //Partition//Format//Function//Bootable//
